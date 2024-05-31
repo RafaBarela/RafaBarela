@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Atualmente trabalho como Analista de Dados, gosto muito de compartilhar meu conhecimento e aprendizado com as pessoas. Sou também programador Back-end utilizando a linguagem Python, a mesma eu obtive um vasto conhecimento em diversas biliotecas. Sempre pronto para aprender novos Frameworks.
+    Sou formado em Análise e Desenvolvimento de Sistemas, atualmente trabalho como Analista de Dados, gosto muito de compartilhar meu conhecimento e aprendizado com as pessoas. Sou também programador utilizando a linguagem Python, a mesma eu obtive um vasto conhecimento em diversas biliotecas. Me aprofundando cada vez mais no mundo de I.A.
   </p>
   
   
