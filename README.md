@@ -33,7 +33,7 @@
 ![Numpy](https://img.shields.io/badge/-OpenCV-0D1117?style=for-the-badge&logo=opencv&labelColor=0D1117)&nbsp; 
   
   
-## Estou aprendendo
+## Estou aperfeiçoando
 ![CSS](https://img.shields.io/badge/-scikitlearn-0D1117?style=for-the-badge&logo=scikitlearn&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
